@@ -4,6 +4,7 @@
 
 namespace Microsoft.eShopOnContainers.Services.Locations.API.Controllers
 {
+
     public class HomeController : Controller
     {
         // GET: /<controller>/
